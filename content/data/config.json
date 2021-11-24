@@ -1,13 +1,13 @@
 {
-    "title": "Stackbit Fjord Theme",
+    "title": "Web Audio Applications",
     "path_prefix": "/",
-    "palette": "yellow",
+    "palette": "red",
     "header": {
-        "title": "Fjord",
-        "tagline": "Minimal and clean blog theme",
+        "title": "Sidebar Blog",
+        "tagline": "Web Audio Applications",
         "logo_img": "/images/FINAL.png",
-        "logo_img_alt": "Fjord Logo",
-        "background_img": "/images/4-1b7260c8.jpg",
+        "logo_img_alt": "bgoonz Logo",
+        "background_img": "/images/sinwavverticle-f6c9ab06.jpg",
         "has_nav": true,
         "nav_links": [
             {
@@ -21,9 +21,17 @@
                 "style": "link"
             },
             {
-                "label": "Style Guide",
-                "url": "/style-guide",
+                "label": "Industry Trends",
+                "url": "/Industry-trends",
                 "style": "link"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
             },
             {
                 "label": "Contact",
@@ -35,35 +43,35 @@
         "social_links": [
             {
                 "label": "Twitter",
-                "url": "https://twitter.com/",
+                "url": "https://twitter.com/bgooonz",
                 "style": "icon",
                 "icon_class": "twitter",
                 "new_window": true
             },
             {
                 "label": "Instagram",
-                "url": "https://www.instagram.com/",
+                "url": "https://www.instagram.com/bgoonz/?hl=en",
                 "style": "icon",
                 "icon_class": "instagram",
                 "new_window": true
             },
             {
                 "label": "GitHub",
-                "url": "https://github.com/",
+                "url": "https://github.com/bgoonz",
                 "style": "icon",
                 "icon_class": "github",
                 "new_window": true
             },
             {
                 "label": "LinkedIn",
-                "url": "https://www.linkedin.com/",
+                "url": "https://www.linkedin.com/in/bryan-guner-046199128/",
                 "style": "icon",
                 "icon_class": "linkedin",
                 "new_window": true
             },
             {
                 "label": "DEV",
-                "url": "https://dev.to/",
+                "url": "https://dev.to/bgoonz",
                 "style": "icon",
                 "icon_class": "dev",
                 "new_window": true
@@ -71,7 +79,44 @@
         ]
     },
     "footer": {
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=fjord&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "My (now) Depreciated Blog: https://web-dev-resource-hub.netlify.app/",
+        "links": [
+            {
+                "label": "Git",
+                "url": "https://github.com/bgoonz",
+                "style": "icon",
+                "icon_class": "github",
+                "new_window": true,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "tools",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "style": "link",
+                "icon_class": "dev",
+                "new_window": false,
+                "no_follow": false
+            }
+        ]
     },
-    "domain": "https://cool-hickory-e5156.netlify.app"
+    "domain": "https://bgoonz-blog-v3-0.netlify.app/",
+    "favicon": "/images/favicon.ico"
 }
