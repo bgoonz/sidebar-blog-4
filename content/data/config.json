@@ -58,7 +58,7 @@
                 "no_follow": false
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Docs",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
