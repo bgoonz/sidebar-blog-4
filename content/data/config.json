@@ -50,7 +50,7 @@
                 "no_follow": false
             },
             {
-                "label": "lorem-ipsum",
+                "label": "Tools",
                 "url": "#",
                 "style": "link",
                 "icon_class": "dev",
