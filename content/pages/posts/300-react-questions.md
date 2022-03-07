@@ -6,12 +6,12 @@ thumb_img_alt: react
 excerpt: lorem-ipsum
 hide_header: false
 seo:
-    title: ''
-    description: ''
-    robots: []
-    extra: []
+  title: ''
+  description: ''
+  robots: []
+  extra: []
 layout: post
-thumb_img_path: /images/react.jpg
+thumb_img_path: /images/react.gif
 content_img_path: /images/My Post.png
 ---
 
