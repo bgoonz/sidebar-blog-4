@@ -32,6 +32,7 @@ seo:
       keyName: property
       relativeUrl: false
 layout: post
+thumb_img_path: /images/10-0607350b.jpg
 ---
 
 ## What Is a Web Developer?
