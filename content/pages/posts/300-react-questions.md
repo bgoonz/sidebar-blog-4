@@ -2,7 +2,7 @@
 title: ReactPrac
 subtitle: 300 problems
 date: '2021-11-24'
-thumb_img_alt: react
+thumb_img_alt: react article
 excerpt: lorem-ipsum
 hide_header: false
 seo:
