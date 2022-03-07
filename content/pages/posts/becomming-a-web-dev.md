@@ -1,36 +1,36 @@
 ---
 title: "\U0001F4BBWhat Is a Web Developer?\U0001F4BB"
 subtitle: Do you have what it takes
-date: '2021-10-16'
+date: '2022-03-07'
 thumb_img_alt: lorem-ipsum
 excerpt: lorem-ipsum
 hide_header: false
 seo:
-    title: What does it take to be a web developer
-    description: |-
-        Design a visually appealing layout for a website
-        Maintain active websites by cleaning up code and debugging errors
-        Create a database using SQL
-    robots: []
-    extra:
-        - name: 'og:image'
-          value: /images/gitbash-f88de85e.jpg
-          keyName: property
-          relativeUrl: true
-        - name: 'twitter:image'
-          value: /images/cool-comet.png
-          keyName: property
-          relativeUrl: true
-        - name: 'og:description'
-          value: |-
-              Learn the Basics of: HTML, CSS, and JavaScript.,SQL and PHP. SEO.
-              Make Sure Your Site is Responsive.
-          keyName: property
-          relativeUrl: false
-        - name: 'og:type'
-          value: website
-          keyName: property
-          relativeUrl: false
+  title: What does it take to be a web developer
+  description: |-
+    Design a visually appealing layout for a website
+    Maintain active websites by cleaning up code and debugging errors
+    Create a database using SQL
+  robots: []
+  extra:
+    - name: 'og:image'
+      value: /images/gitbash-f88de85e.jpg
+      keyName: property
+      relativeUrl: true
+    - name: 'twitter:image'
+      value: /images/cool-comet.png
+      keyName: property
+      relativeUrl: true
+    - name: 'og:description'
+      value: |-
+        Learn the Basics of: HTML, CSS, and JavaScript.,SQL and PHP. SEO.
+        Make Sure Your Site is Responsive.
+      keyName: property
+      relativeUrl: false
+    - name: 'og:type'
+      value: website
+      keyName: property
+      relativeUrl: false
 layout: post
 ---
 
