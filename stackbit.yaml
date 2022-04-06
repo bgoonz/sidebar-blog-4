@@ -1,4 +1,4 @@
-stackbitVersion: ~0.4.0
+stackbitVersion: 0.4.1
 ssgName: nextjs
 cmsName: git
 buildCommand: npm run build
@@ -15,7 +15,7 @@ pageData:
   - pagePath: /
     initialExpandedPaths:
       - '[1]'
-      - '[1].fields.palette'
+      - '[1].fields.palette' 
       - '[2]'
       - '[2].fields.title'
       - '[2].fields.excerpt'
